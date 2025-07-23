@@ -1,18 +1,7 @@
 # Contact Book 📒
-
+STUDENT NAME- ABAYNEET SINGH 
 A simple contact book web application built with Vue 3, Vue Router 4, and Vite.  
-Data is stored in the browser's `localStorage` so it persists between sessions.
 
----
-
-## 📋 Features
-
-✅ View all contacts sorted alphabetically by last name  
-✅ Search/filter contacts by first or last name  
-✅ View contact details  
-✅ Add a new contact  
-✅ Edit an existing contact  
-✅ Delete a contact  
 
 ---
 
