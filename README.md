@@ -12,11 +12,3 @@ A simple contact book web application built with Vue 3, Vue Router 4, and Vite.
 - [Vite](https://vitejs.dev/) — fast development build tool
 - `localStorage` — browser storage for data persistence
 
----
-
-## 🧑‍💻 How to run locally
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/YOUR-USERNAME/contact-book.git
-cd contact-book
